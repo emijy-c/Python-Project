@@ -79,7 +79,6 @@ Happy Travels!
 ## Known Bugs
 * You can not travel to Hawaii at the moment
 * Misspelling locations will cause app to crash
-* 
 
 
 
