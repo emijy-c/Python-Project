@@ -1,4 +1,4 @@
-![CityPocket logo](https://imgur.com/b9eg2ZS)
+![CityPocket logo](https://i.imgur.com/b9eg2ZS.png)
 
 
 # CityPocket (Python-Project)
